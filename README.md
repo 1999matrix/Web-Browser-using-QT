@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Kite </h1>
+  <h1> Chromium </h1>
   Simple web browser based on Qt
 
   ![image](https://user-images.githubusercontent.com/74430714/236667195-4a833b95-42c5-4543-963a-efebee68e4db.png)
